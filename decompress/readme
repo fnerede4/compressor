@@ -1,0 +1,2 @@
+This project takes an text file named "compout.txt" which is compressed and decompress it. New txt file will be created and name of
+it will be "decompout.txt" and it will be the original form of text. 
